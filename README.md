@@ -1,4 +1,4 @@
-# 🎮 Gaming-revenue-waterfall-dynamics-tableau
+# 🎮 Gaming Revenue & User Dynamics Intelligence Dashboard
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-Live_Dashboard-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/oleksandr.hordashevskyi/viz/GamingRevenueUserDynamics/GamingRevenueUserDynamics)
 [![Database](https://img.shields.io/badge/PostgreSQL-Data_Pipeline-336791?style=flat&logo=postgresql&logoColor=white)](#-technical-architecture--data-pipeline)
