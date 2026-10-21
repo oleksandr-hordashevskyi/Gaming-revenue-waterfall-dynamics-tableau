@@ -105,8 +105,3 @@ gaming-revenue-waterfall-dynamics-tableau/
 
 - LinkedIn: [Oleksandr Hordashevskyi](https://www.linkedin.com/in/oleksandr-hordashevskyi)
 - Email: [o.hordashevskyi@gmail.com](mailto:o.hordashevskyi@gmail.com)
-
-
----
-
-## 🛠 Technical Architecture & Data Pipeline
