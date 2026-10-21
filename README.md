@@ -93,9 +93,9 @@ gaming-revenue-waterfall-dynamics-tableau/
 ├── sql/
 │   └── gaming_revenue_metrics_pipeline.sql     # Multi-stage PostgreSQL ETL extraction query
 ├── data/
-│   └── README.md                              # Data dictionary & schema validation notes
+│   └── games_revenue_metrics.csv               # Data dictionary & schema validation notes
 └── images/
-    └── 01_gaming_revenue_dashboard.png        # High-res dashboard visual asset
+    └── gaming_revenue_dashboard.png        # High-res dashboard visual asset
 
 ```
 ---
