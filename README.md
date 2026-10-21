@@ -86,16 +86,16 @@ The dashboard architecture adheres to executive dashboard design standards and t
 
 ```text
 gaming-revenue-waterfall-dynamics-tableau/
-├── LICENSE                                    # MIT Open Source License
-├── README.md                                  # Executive business summary & technical docs
 ├── dashboards/
 │   └── Gaming Revenue & User Dynamics.twbx     # Packaged Tableau Workbook
+├── data/
+│   └── games_revenue_metrics.csv               # Validated analytics dataset (1,392 rows)
+├── images/
+│   └── gaming_revenue_dashboard.png            # High-res dashboard visual asset
 ├── sql/
 │   └── gaming_revenue_metrics_pipeline.sql     # Multi-stage PostgreSQL ETL extraction query
-├── data/
-│   └── games_revenue_metrics.csv               # Data dictionary & schema validation notes
-└── images/
-    └── gaming_revenue_dashboard.png        # High-res dashboard visual asset
+├── LICENSE                                     # MIT Open Source License
+└── README.md                                   # Executive business summary & technical docs
 
 ```
 ---
