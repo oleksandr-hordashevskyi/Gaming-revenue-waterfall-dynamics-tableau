@@ -1,8 +1,8 @@
 # 🎮 Gaming Revenue & User Dynamics Intelligence Dashboard
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-Live_Dashboard-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/oleksandr.hordashevskyi/viz/GamingRevenueUserDynamics/GamingRevenueUserDynamics)
-[![Database](https://img.shields.io/badge/PostgreSQL-Data_Pipeline-336791?style=flat&logo=postgresql&logoColor=white)](#-technical-architecture--data-pipeline)
-[![Domain](https://img.shields.io/badge/SaaS_/_Gaming-Unit_Economics-4CAF50?style=flat)](#-key-metrics-definitions--formulas)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data_Pipeline-336791?style=flat&logo=postgresql&logoColor=white)](sql/gaming_revenue_metrics_pipeline.sql)
+[![Unit Economics](https://img.shields.io/badge/SaaS_/_Gaming-Unit_Economics-4CAF50?style=flat)](data/games_revenue_metrics.csv)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
