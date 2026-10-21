@@ -85,7 +85,7 @@ The dashboard architecture adheres to executive dashboard design standards and t
 ## 📁 Project Structure & Deliverables
 
 ```text
-gaming-revenue-waterfall-dynamics-tableau/
+Gaming-revenue-waterfall-dynamics-tableau/
 ├── dashboards/
 │   └── Gaming Revenue & User Dynamics.twbx     # Packaged Tableau Workbook
 ├── data/
