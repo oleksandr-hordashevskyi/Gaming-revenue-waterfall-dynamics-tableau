@@ -21,7 +21,7 @@ Built on an analytical dataset from **PostgreSQL (1,392 validated rows)**, the p
 
 ## 📊 Visualizations & Dashboard Overview
 
-![Gaming Revenue Dashboard Preview](images/01_gaming_revenue_dashboard.png)
+![Gaming Revenue Dashboard Preview](images/gaming_revenue_dashboard.png)
 
 The dashboard architecture adheres to executive dashboard design standards and the **5-second cognitive comprehension rule**, structured into three analytical horizons:
 1. **High-Level Financial Dynamics (Top-Left):** Dual-axis tracking comparing absolute **Monthly Recurring Revenue (MRR)** volume against **Average Revenue Per Paid User (ARPPU)** efficiency.
